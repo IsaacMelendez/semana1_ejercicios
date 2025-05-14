@@ -90,6 +90,7 @@ private java.util.List<String> usuarios = new java.util.ArrayList<>();
         }
         // Mostrar las letras en el área de texto
         txtMostrar.setText(sb.toString());
+        txtMostrar.append("Hola a todos");
     }//GEN-LAST:event_btnMostrarActionPerformed
 
     /**
